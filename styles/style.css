@@ -50,7 +50,7 @@
   left: 64px; /* Отступ слева */
   width: 228px; /* Ширина логотипа */
   height: 38px; /* Высота логотипа */
-  z-index: 2; /* Уровень наложения для поверх других элементов */
+  z-index: 2; /* Уровень наложения поверх других элементов */
 }
 
 .header__square-pic {
@@ -64,7 +64,7 @@
 
 .header__main-illustration{
   position: absolute;
-  bottom:0;
+  bottom: 0;
   right: 0;
   width: 765px; 
   height: 608px; 
@@ -114,7 +114,7 @@
   margin-bottom:0;
 }
 
-.two-clolumns__span-accent{
+.two-columns__span-accent{
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
