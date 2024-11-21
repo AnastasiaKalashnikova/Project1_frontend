@@ -7,4 +7,5 @@
   position: relative; /* Для наложения */
   justify-content: flex-start; /* Выравниваем по горизонтали влево */
   align-items: center; /* Вертикальное центрирование */
+  overflow: hidden;
 }
