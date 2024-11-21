@@ -1,6 +1,6 @@
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
-  margin-left: auto; /* Прижимает колонку к правому краю */
+  margin-right: 0; /* Прижимает колонку к правому краю */
   color: #000;
 }
